@@ -4,9 +4,9 @@
 Arquitetura SOA e Web Services  
 Professor: Carlos Eduardo Machado de Oliveira
 
-## 🧑‍💻 Aluno
-**Eduardo Osorio Filho**  
-**RM550161**
+## 🧑‍💻 Alunos
+**Eduardo Osorio Filho - RM550161**  
+**Fabio Hideki Kamikihara - RM550610**
 
 ## 📌 Objetivo
 Este projeto foi desenvolvido como parte do Checkpoint 2, com o objetivo de aplicar os conceitos de arquitetura orientada a serviços (SOA) e Web Services SOAP.
